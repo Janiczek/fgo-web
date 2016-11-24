@@ -1,0 +1,61 @@
+url: https://y7kim.github.io # TODO opravdova URL
+baseurl: /fgo # TODO opravdova URL
+
+title: Family Gospel Ostrava
+email: qadim@centrum.cz
+description: "Oficiální web amatérského gospelového sboru Family Gospel Ostrava (FGO)."
+
+sbor:
+- name: Radim Raszka
+  pic: raszka_radim
+- name: Veronika Raszková
+  pic: raszkova_veronika
+- name: Martin Bazala
+  pic: bazala_martin
+- name: Martina Bazalová
+  pic: bazalova_martina
+- name: Katka Vopalecká
+  pic: vopalecka_katka
+- name: Radim Toman
+  pic: toman_radim
+- name: Ethel Tomanová
+  pic: tomanova_ethel
+- name: Karin Janiczková
+  pic: janiczkova_karin
+- name: Kateřina Vereš
+  pic: veres_katerina
+- name: Lucie Kubiczek
+  pic: kubiczek_lucie
+
+kapela:
+- name: Martin Janiczek
+  pic: janiczek_martin
+  position: kapelník, basová kytara
+- name: Jan Vereš
+  pic: veres_jan
+  position: bicí
+- name: Pavel Kubiczek
+  pic: kubiczek_pavel
+  position: klávesy
+- name: David Horvath # TODO není Horváth?
+  pic: horvath_david
+  position: akustická kytara
+- name: Jířa Marušáková
+  pic: marusakova_jira
+  position: housle
+
+deti:
+- name: Dana a Lenka Verešová
+  pic: veresova_dana_a_lenka
+
+social:
+  - title: facebook
+    url: https://www.facebook.com/groups/604262332991737/
+
+address:
+  - line: Kulturní centrum Cooltour
+  - line: Černá louka 3188
+  - line: 70200 Ostrava - Moravská Ostrava
+
+markdown: kramdown
+permalink: pretty
