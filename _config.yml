@@ -37,12 +37,15 @@ kapela:
 - name: Pavel Kubiczek
   pic: kubiczek_pavel
   position: klávesy
-- name: David Horvath # TODO není Horváth?
+- name: David Horváth
   pic: horvath_david
   position: akustická kytara
 - name: Jířa Marušáková
   pic: marusakova_jira
   position: housle
+- name: Casey Long
+  pic: long_casey
+  position: akustická kytara
 
 deti:
 - name: Dana a Lenka Verešová

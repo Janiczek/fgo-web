@@ -4,13 +4,14 @@
                 <div class="col-md-6">
                     <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 h62">
                     <ul class="list-inline social-buttons">
                         {% for network in site.social %}
-                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                        <li><a href="{{ network.url }}" target="_blank"><i class="fa fa-{{ network.title }}"></i></a>
                         </li>
                         {% endfor %}
                     </ul>
+                    <a href="http://gospeltrain.cz" target="_blank" class="gospeltrain"><span>Gospel Train</span></a>
                 </div>
             </div>
         </div>
