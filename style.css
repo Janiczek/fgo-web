@@ -706,7 +706,7 @@ footer span.copyright {
     text-transform: uppercase;
     text-transform: none;
     font-family: "Lato", "Helvetica Neue",Helvetica,Arial,sans-serif;
-    line-height: 40px;
+    line-height: 62px;
 }
 
 ul.social-buttons {
@@ -715,11 +715,11 @@ ul.social-buttons {
 
 ul.social-buttons li a {
     display: block;
-    width: 40px;
-    height: 40px;
+    width: 62px;
+    height: 62px;
     border-radius: 100%;
     font-size: 20px;
-    line-height: 40px;
+    line-height: 62px;
     outline: 0;
     color: #fff;
     background-color: #222;
@@ -757,8 +757,7 @@ ul.social-buttons li a:active {
     font-size: 3em;
 }
 
-.portfolio-modal .modal-content p {
-    margin-bottom: 30px;
+.portfolio-modal .modal-content p { margin-bottom: 30px;
 }
 
 .portfolio-modal .modal-content p.item-intro {
@@ -859,6 +858,111 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.w740 {
+  width: 740px;
+}
+
+.mcenter {
+  margin: 0 auto;
+}
+
+.tcenter {
+  text-align: center;
+}
+
+ul.yellow {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 30px;
+}
+
+ul.yellow li {
+  padding-left: 16px;
+  line-height: 30px;
+}
+
+ul.yellow li:before {
+  content: "•";
+  margin-left: -16px;
+  margin-right: 8px;
+  font-size: 20px;
+  color: #fed136;
+}
+
+ul.large li {
+    font-size: 16px;
+}
+
+.pt10 {
+  padding-top: 10px;
+}
+
+.btopgray {
+  border-top: 2px solid #f0f0f0;
+}
+
+a.imglink {
+  display: inline-block;
+}
+
+a.imglink > img {
+  border: 2px solid #f0f0f0;
+}
+
+.fgo-logo-big {
+  display: inline-block;
+  margin-bottom: 40px;
+  background: url('/img/fgo-logo-big.png') top center no-repeat;
+  background-size: 740px 364px;
+  width: 740px;
+  height: 364px;
+}
+
+.fgo-logo-small {
+  margin-top: 17px;
+  background: url('/img/fgo-logo-small.png') top center no-repeat;
+  background-size: 250px 26px;
+  width: 250px;
+  height: 26px !important;
+}
+
+.gospeltrain {
+  background: url('/img/gospel-train.png') top center no-repeat;
+  background-size: 153px 62px;
+  width: 153px;
+  height: 62px;
+  display: inline-block;
+}
+
+.restart {
+  background: url('/img/restart.png') top center no-repeat;
+  background-size: 154px 62px;
+  width: 154px;
+  height: 62px;
+  display: inline-block;
+}
+
+.fgo-logo-big span,
+.fgo-logo-small span,
+.gospeltrain span,
+.restart span {
+  display: none;
+}
+
+ul.social-buttons {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.h62 {
+  height: 62px;
+}
+
+h3 span.smaller {
+  font-size: 16px;
 }
 
 
