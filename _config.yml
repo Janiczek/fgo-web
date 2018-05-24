@@ -3,17 +3,13 @@ baseurl: ""
 
 title: Family Gospel Ostrava
 email: qadim@centrum.cz
-description: "Oficiální web amatérského gospelového sboru Family Gospel Ostrava (FGO)."
+description: "Oficiální web komunitního gospelového sboru Family Gospel Ostrava (FGO)."
 
 sbor:
 - name: Radim Raszka
   pic: raszka_radim
 - name: Veronika Raszková
   pic: raszkova_veronika
-- name: Martin Bazala
-  pic: bazala_martin
-- name: Martina Bazalová
-  pic: bazalova_martina
 - name: Katka Vopalecká
   pic: vopalecka_katka
 - name: Radim Toman
@@ -24,32 +20,46 @@ sbor:
   pic: janiczkova_karin
 - name: Kateřina Vereš
   pic: veres_katerina
-- name: Lucie Kubiczek
-  pic: kubiczek_lucie
 
 kapela:
 - name: Martin Janiczek
   pic: janiczek_martin
-  position: kapelník, basová kytara
+  position: kapelník, klávesy
+- name: Eliška Burdová
+  pic: burdova_eliska
+  position: klávesy
 - name: Jan Vereš
   pic: veres_jan
   position: bicí
+- name: Kamila Holmanová
+  pic: holmanova_kamila
+  position: basová kytara
+- name: Casey Long
+  pic: long_casey
+  position: akustická kytara
+- name: Jan Kubenka
+  pic: kubenka_jan
+  position: elektrická kytara
+- name: Jířa Marušáková
+  pic: marusakova_jira
+  position: housle
+
+byvali:
+- name: Martin Bazala
+  pic: bazala_martin
+  position: sbormistr
 - name: Pavel Kubiczek
   pic: kubiczek_pavel
   position: klávesy
 - name: David Horváth
   pic: horvath_david
-  position: akustická kytara
-- name: Jířa Marušáková
-  pic: marusakova_jira
-  position: housle
-- name: Casey Long
-  pic: long_casey
-  position: akustická kytara
+  position: klávesy, akustická kytara
 
 deti:
 - name: Dana a Lenka Verešová
   pic: veresova_dana_a_lenka
+- name: Petra Gruszková
+  pic: gruszkova_petra
 
 social:
   - title: facebook
